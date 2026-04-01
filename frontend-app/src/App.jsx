@@ -96,7 +96,7 @@ function App() {
           </div>
           <div>
             <h1 className="text-xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white to-slate-400">
-              Antigravity Mentor
+              AI Mentor
             </h1>
             <div className="flex items-center space-x-1.5 mt-0.5">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
@@ -237,7 +237,7 @@ function App() {
           </button>
         </form>
         <div className="text-center mt-4 text-[11px] text-slate-500 font-medium tracking-wide uppercase">
-          Powered by Antigravity AI
+          Powered by AI
         </div>
       </footer>
     </div>
